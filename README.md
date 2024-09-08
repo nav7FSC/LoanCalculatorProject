@@ -18,13 +18,6 @@ The **Loan Calculator** is a JavaFX application designed to compute monthly and 
 - **Button**:
     - **Calculate**: Triggers the calculation of the monthly and total payments based on the entered data.
 
-## Usage
-
-1. **Input the Annual Interest Rate**: Enter the interest rate as a percentage (e.g., 5 for 5%).
-2. **Input the Number of Years**: Enter the duration of the loan in years.
-3. **Input the Loan Amount**: Enter the total amount of the loan.
-4. **Click the Calculate Button**: The application will compute and display the monthly and total payments.
-
 ## Code Overview
 
 - **`LoanCalculator` Class**: Extends `Application` from JavaFX and sets up the user interface and functionality.
